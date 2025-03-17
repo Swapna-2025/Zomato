@@ -6,6 +6,24 @@ Have a look.
 
 
 
+
+
+
+
+**↪ Dashboard**
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/f0f84608-e93c-440c-828e-2f67d6c432b3)
+
+
+
+
+
+
+
 **✍️ Table Of Contents**:-
 
 
@@ -90,6 +108,7 @@ Dataset Information
 ◆ wordcloud
 
 
+
 **✍️ Project Work flow**:-
 
 ◆  Importing Libraries
@@ -105,6 +124,18 @@ Dataset Information
 ◆  Data Visualization
 
 ◆  Conclusion
+
+
+
+
+ 
+
+
+
+
+ 
+
+
 
 
 
