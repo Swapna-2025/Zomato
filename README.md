@@ -16,7 +16,8 @@ Have a look.
 
 
 
-![image](https://github.com/user-attachments/assets/f0f84608-e93c-440c-828e-2f67d6c432b3)
+![image](https://github.com/user-attachments/assets/4d9d0d58-e1be-418c-9112-879cd2af573d)
+
 
 
 
@@ -44,21 +45,6 @@ Zomato is a leading online food delivery and restaurant discovery platform that 
 
  Now Zomato operates in multiple countries, including India, UAE, Australia, and more. Over the years, it has acquired companies like Uber Eats India and merged with Blinkit for quick commerce services.
 
- **✍️ Objective of this project**:-
-
-The objective of conducting an Exploratory Data Analysis (EDA) on Zomato data is identifying patterns, and drawing insights related to restaurants, customer preferences, and food delivery trends.
-
-Understand the distribution of restaurants across different locations, cuisines, and price ranges.
-
-Identify popular cuisines and restaurant chains based on ratings, votes, and customer reviews.
-
-Analyze the relationship between cost and customer satisfaction to determine if higher-priced restaurants receive better ratings.
-
-Explore the impact of online delivery and table booking on restaurant popularity and customer engagement.
-
-Detect trends and patterns in customer behavior, such as preferred dining times, popular locations, and frequently ordered cuisines.
-
-Provide actionable insights for Zomato to improve its services, enhance customer experience, and optimize restaurant recommendations.
 
 
 **✍️ About the Dataset**:- 
@@ -130,6 +116,21 @@ Dataset Information
 
  
 
+ **✍️ Objective of this project**:-
+
+The objective of conducting an Exploratory Data Analysis (EDA) on Zomato data is identifying patterns, and drawing insights related to restaurants, customer preferences, and food delivery trends.
+
+Understand the distribution of restaurants across different locations, cuisines, and price ranges.
+
+Identify popular cuisines and restaurant chains based on ratings, votes, and customer reviews.
+
+Analyze the relationship between cost and customer satisfaction to determine if higher-priced restaurants receive better ratings.
+
+Explore the impact of online delivery and table booking on restaurant popularity and customer engagement.
+
+Detect trends and patterns in customer behavior, such as preferred dining times, popular locations, and frequently ordered cuisines.
+
+Provide actionable insights for Zomato to improve its services, enhance customer experience, and optimize restaurant recommendations.
 
 
 
@@ -140,4 +141,13 @@ Dataset Information
 
 
 
+**🙌  Created By  :**
 
+
+
+
+SWAPNA DEY
+
+
+
+(Data Analyst)
